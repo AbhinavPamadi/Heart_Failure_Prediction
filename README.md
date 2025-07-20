@@ -36,7 +36,7 @@ This project analyzes a heart failure dataset containing clinical features of pa
 - matplotlib, seaborn
 - scikit-learn
 
-## 📈 Workflow
+## Workflow
 
 1. **Data Preprocessing**
    - Handling missing values (if any)
